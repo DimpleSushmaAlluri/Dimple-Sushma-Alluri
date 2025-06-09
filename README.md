@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm Dimple Sushma Alluri
+# Hi there, I'm Dimple Sushma Alluri
 
 🎓 Master’s in Health Informatics | 📍 Based in Indiana, USA  
-💼 Clinical Systems Analyst | Passionate about Public Health & Data Science
+💼 Clinical Systems Analyst | Passionate about Public Health
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a Clinical Systems Analyst with a Doctor of Pharmacy background and a Master’s in Health Informatics. My work bridges healthcare and technology - from enhancing EHR systems and pulling clinical reports to analyzing public health data.
 
@@ -16,21 +16,21 @@ I’m passionate about using data to improve patient outcomes and health system 
 
 I have experience working with SQL, R, Python, MySQL, REDCap, GitHub, Tableau and Power BI, and I'm eager to keep learning and contributing to meaningful healthcare solutions.
 
-## 🔧 Tech & Tools
+## Tech & Tools
 
 - **Languages & Tools:** SQL, R, Python, Git, Power BI, REDCap  
 - **Healthcare Systems:** CPSI, Epic (basic)
 - **Databases:** MySQL, PostgreSQL  
 - **Statistical & ML Models:** Logistic Regression, Random Forest, Negative Binomial, Clustering  
 
-## 🌍 Interests
+## Interests
 
 - Public Health & Epidemiology  
 - Bioinformatics & Healthcare Analytics  
 - Health Equity & Population Health  
 - EHR Optimization & Clinical Workflows
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **LinkedIn:** https://www.linkedin.com/in/alluri-dimple-sushma/
   

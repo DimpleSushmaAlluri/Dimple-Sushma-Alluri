@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dimple Sushma Alluri
 
-💼 Clinical Systems Analyst | Passionate about Public Health & Data Science
 🎓 Master’s in Health Informatics | 📍 Based in Indiana, USA  
+💼 Clinical Systems Analyst | Passionate about Public Health & Data Science
 
 ## 👩‍💻 About Me
 
